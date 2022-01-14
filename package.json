@@ -1,7 +1,7 @@
 {
 	"name": "Task List",
 	"version": "1.0.0",
-	"description": "Made with vanilla JS and CL Web CSS library",
+	"description": "Made with vanilla JS, localStorage and CL Web CSS library",
 	"main": "script.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
